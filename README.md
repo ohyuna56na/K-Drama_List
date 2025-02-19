@@ -7,13 +7,13 @@
 
 This is a Flutter application that displays a dynamic list of K-Dramas with images, descriptions, and navigation icons. The app presents a clean and visually appealing UI for K-Drama enthusiasts.
 
-🎥 Demo
+# 🎥 Demo
 
 Check out the demo video on YouTube:
 
 https://youtu.be/4GFiXoJYBgE
 
-🚀 Features
+# 🚀 Features
 
 Displays a list of 20 popular K-Dramas
 
@@ -23,11 +23,11 @@ Responsive and visually appealing UI
 
 Smooth scrolling experience
 
-📸 Screenshots
+# 📸 Screenshots
 
 ![img.png](img.png)
 
-🛠 Installation
+# 🛠 Installation
 
 To run the app locally, follow these steps:
 
