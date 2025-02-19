@@ -1,16 +1,34 @@
-# najwa
+📱 Dynamic K-Drama List App
+This is a Flutter application that displays a dynamic list of K-Dramas with images, descriptions, and navigation icons. The app presents a clean and visually appealing UI for K-Drama enthusiasts.
 
-A new Flutter project.
+🎥 Demo
+Check out the demo video on YouTube:
+https://youtu.be/4GFiXoJYBgE
 
-## Getting Started
+🚀 Features
+Displays a list of 20 popular K-Dramas
+Each item contains a title, genre, and poster image
+Responsive and visually appealing UI
+Smooth scrolling experience
 
-This project is a starting point for a Flutter application.
+📸 Screenshots
+![img.png](img.png)
 
-A few resources to get you started if this is your first Flutter project:
+🛠 Installation
+To run the app locally, follow these steps:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repository:
+git clone https://github.com/your-repo/kdrama-list.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Navigate to the project directory:
+cd kdrama-list
+
+Install dependencies:
+flutter pub get
+
+Run the app:
+flutter run
+
+
+Happy coding! 😊
+
